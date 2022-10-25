@@ -1,0 +1,28 @@
+body{
+  background-color: #A5F1E9;
+
+}
+div {
+  background-color: #7FBCD2;
+
+}
+h1 {
+margin-top: 70px;
+font-family: 'Noto Sans Thai', sans-serif;
+font-size: 2.5rem;
+text-align: center;
+
+}
+.sea {
+  position: absolute;
+top: 400px;
+text-align:left;
+
+
+}
+.sand {
+  position: absolute;
+top: 500px;
+
+
+}
